@@ -124,10 +124,10 @@ your code should follow pyswahili syntax (python one) for it to be evaluated.
 
 ```python 
 
-namba = ingiza('Namba yoyote : ')
+namba = weka('Namba yoyote : ')
 namba = int(namba)
 
-ikiwa no imo katiya(1, 12):
+iwapo no katika katiya(1, 12):
     andika(no, 'x ', namba, '=', no*namba)
 ```
 
